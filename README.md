@@ -1,14 +1,30 @@
-## Hi there 👋
-**ngocla99/ngocla99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+I'm **Le Anh Ngoc (Nemo)** — a passionate **Full-Stack Developer** specializing in **Frontend Development** with over **4 years of experience**.  
+My goal is to advance my career by joining a **global company** where I can continue to grow and make a meaningful impact.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 💻 Skilled in **React.js, TypeScript, Node.js**  
+- 🌱 Strong in **self-learning** — I quickly adapt to new technologies and frameworks  
+- 🔥 Known for being **proactive, responsible, and detail-oriented**  
+- 📈 Always seeking to **improve performance, scalability, and user experience**  
+- 🌍 Committed to **continuous learning and improvement**  
+
+---
+
+## 📂 Portfolio
+- 🌐 Personal Website: [ngocla99.vercel.app](https://ngocla99.vercel.app/)  
+- ⚙️ Clean Architecture Project: [hr-management (NestJS + React + TanStack Router)](https://github.com/ngocla99/hr-management)
+
+---
+
+## 🤝 Let’s Connect
+- 📧 Email: **your-email@example.com**  
+- 💼 LinkedIn: [linkedin.com/in/ngocla99](https://linkedin.com/in/ngocla99)  
+- 🐙 GitHub: [github.com/ngocla99](https://github.com/ngocla99)  
+
+---
+
+✨ *“Code is like art — clean, scalable, and crafted with care.”*
