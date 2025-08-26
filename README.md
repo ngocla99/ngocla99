@@ -21,7 +21,7 @@ My goal is to advance my career by joining a **global company** where I can cont
 ---
 
 ## 🤝 Let’s Connect
-- 📧 Email: **your-email@example.com**  
+- 📧 Email: ngoc.leanh1999@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/ngocla99](https://linkedin.com/in/ngocla99)  
 - 🐙 GitHub: [github.com/ngocla99](https://github.com/ngocla99)  
 
