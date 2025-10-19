@@ -28,3 +28,8 @@ My goal is to advance my career by joining a **global company** where I can cont
 ---
 
 ✨ *“Code is like art — clean, scalable, and crafted with care.”*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
