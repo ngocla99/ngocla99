@@ -16,7 +16,6 @@ My goal is to advance my career by joining a **global company** where I can cont
 
 ## 📂 Portfolio
 - 🌐 Personal Website: [ngocla99.vercel.app](https://ngocla99.vercel.app/)  
-- ⚙️ Clean Architecture Project: [hr-management (NestJS + React + TanStack Router)](https://github.com/ngocla99/hr-management)
 
 ---
 
