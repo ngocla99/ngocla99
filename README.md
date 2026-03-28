@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Le Anh Ngoc (Nemo)** — a passionate **Full-Stack Developer** specializing in **Frontend Development** with over **4 years of experience**.  
+I'm **Le Anh Ngoc (Nemo)** — a passionate **Full-Stack Developer** specializing in **Frontend Development** with over **5 years of experience**.  
 My goal is to advance my career by joining a **global company** where I can continue to grow and make a meaningful impact.  
 
 ---
